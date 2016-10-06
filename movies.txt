@@ -1,2 +1,9 @@
 The Matrix
+<<<<<<< HEAD
 Beggi skanz
+=======
+The Shining
+The Shawshank Redemption
+The Matrix II
+The Matrix III
+>>>>>>> 0cfdde4e5517252fa85d5d55deda912f2eedc047
